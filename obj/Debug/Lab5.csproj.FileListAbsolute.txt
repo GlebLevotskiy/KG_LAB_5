@@ -1,0 +1,10 @@
+D:\кг лаьы\BSUComputerGraphicsLabs\Lab5\Lab5\bin\Debug\Lab5.exe.config
+D:\кг лаьы\BSUComputerGraphicsLabs\Lab5\Lab5\bin\Debug\Lab5.exe
+D:\кг лаьы\BSUComputerGraphicsLabs\Lab5\Lab5\bin\Debug\Lab5.pdb
+D:\кг лаьы\BSUComputerGraphicsLabs\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+D:\кг лаьы\BSUComputerGraphicsLabs\Lab5\Lab5\obj\Debug\Lab5.MainForm.resources
+D:\кг лаьы\BSUComputerGraphicsLabs\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+D:\кг лаьы\BSUComputerGraphicsLabs\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+D:\кг лаьы\BSUComputerGraphicsLabs\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+D:\кг лаьы\BSUComputerGraphicsLabs\Lab5\Lab5\obj\Debug\Lab5.exe
+D:\кг лаьы\BSUComputerGraphicsLabs\Lab5\Lab5\obj\Debug\Lab5.pdb
